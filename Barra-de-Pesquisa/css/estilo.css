@@ -1,0 +1,28 @@
+.inputContainer {
+    width: 220px;
+    height: 53px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom,rgb(160, 67, 214),rgb(230, 118, 228));
+    border-radius: 50px ;
+    overflow: hidden;
+    cursor:pointer;
+    box-shadow: 2px 2px 10px rgb(145, 7, 244);
+  }
+  
+  .input {
+    width: 200px;
+    height: 40px;
+    border: none;
+    outline: none;
+    caret-color: rgb(196, 79, 202);
+    background-color: white;
+    border-radius: 30px;
+    padding-left: 15px;
+    letter-spacing: 0.8px;
+    color: rgb(114, 85, 117);
+    font-size: 13px;
+    text-align: left;
+  }
+ 
